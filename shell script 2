@@ -1,0 +1,23 @@
+Welcome to Cloud Shell! Type "help" to get started.
+
+Your Cloud Platform project in this session is set to lucid-volt-436702-b4.
+
+dzgaming381@cloudshell:
+
+(lucid-volt-436702-b4)$ touch latihan2.sh
+
+dzgaming381@cloudshell: (lucid-volt-436702-b4)$ echo
+
+dzgaming381@cloudshell:
+
+(lucid-volt-436702-b4)$ echo #!/bin/bash Nama "Rohmani Firdaus NIM=2402072
+
+dzgaming381@cloudshell: (lucid-volt-436702-b4)$ saya_login_sebagai_siapa='who' echo "Nama="Rohmani Fir
+
+daus: "tNama echo "NIM=2402072:" "saya_login_sebagai-siapa='who': tsaya_login_sebagai_siapa Nama Rohmani Firdaus: tNama echo NIM-2402072:
+
+saya_login_sebagai-siapa='who': tsaya_login_sebagai_siapa
+
+dzgaming381@cloudshell: (lucid-volt-436702-b4)$ read tNIM
+
+Π
