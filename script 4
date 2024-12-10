@@ -1,0 +1,17 @@
+Welcome to Cloud Shell! Type "help" to get started.
+
+Your Cloud Platform project in this session is set to lucid-volt-436702-64.
+
+Use "gcloud config set project [PROJECT_ID]" to change to a different project.
+
+dzgaming381@cloudshell: (lucid-volt-436702-b4)$ pico latihan4.sh
+
+dzgaming381@cloudshell: (lucid-volt-436702-b4)$ cat latihan4.sh
+
+#!/bin/bash
+
+echo 'script untuk menerima input, penjumlahan dan perkalian echocce echo "16:" read x echo 8 read y jmlh expr tx ty kalis expr tx ty echo "hasil penjumlahan txty jaih
+
+echo "hasil perkalian tx ty kali
+
+dzgaming381@cloudshell: (lucid-volt-436702-b4)$
