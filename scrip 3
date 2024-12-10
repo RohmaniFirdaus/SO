@@ -1,0 +1,19 @@
+Welcome to Cloud Shell! Type "help" to get started.
+
+Your Cloud Platform project in this session is set to lucid-volt-436702-b4.
+
+dzgaming381@cloudshell: (lucid-volt-436702-b4)$ pico latihan3.sh
+
+dzgaming381@cloudshell: (lucid-volt-436702-b4)$ cat latihan.sh
+
+cat: latihan.sh: No such file or directory
+
+dzgaming381@cloudshell: (lucid-volt-436702-b4)$ cat latihan3.sh
+
+#!/bin/bash
+
+echo script untuk menerima input" echo ========.........." echo "Rohmani Firdaus read nama echo '==========================" echo "nama saya adalah: "Nama echo "Voly:" read hobi
+
+echo "hobi saya adalah Hobi
+
+dzgaming381@cloudshell: (lucid-volt-436702-b4)$
