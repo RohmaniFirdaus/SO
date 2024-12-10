@@ -1,0 +1,25 @@
+echo "buat direktori latihanscript dan file
+
+Welcome to Cloud Shell! Type "help" to get started.
+
+Your Cloud Platform project in this session is set to lucid-volt-436702-64.
+
+Use "gcloud config set project [PROJECT_ID]" to change to a different project.
+
+dzgaming381@cloudshell: (lucid-volt-436702-b4)$ pwd
+
+/home/dzgaming381
+
+dzgaming381@cloudshell: (lucid-volt-436702-b4)$ touch hello.sh
+
+dzgaming381@cloudshell: (lucid-volt-436702-b4)$ echo #!/bin/bash echo hello world!"
+
+dzgaming381@cloudshell: (lucid-volt-436702-64)$ nano hello.sh
+
+dzgaming381@cloudshell: (lucid-volt-436702-b4)$ chmod +x hello.sh
+
+dzgaming381@cloudshell: (lucid-volt-436702-b4)$/hello.sh
+
+./hello.sh: line 6: unexpected EOF while looking for matching
+
+dzgaming381@cloudshell: (lucid-volt-436702-b4)$
